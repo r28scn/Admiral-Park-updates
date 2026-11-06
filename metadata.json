@@ -1,0 +1,6 @@
+{
+  "name": "Admiral Park | Waste, Recycling & Community Hub",
+  "description": "Smart resident portal for Admiral Park (GU10, Guildford): live collection countdown, alternate-week bin calendar, what-goes-where sorting guide, live weather alerts, development management, and community noticeboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
